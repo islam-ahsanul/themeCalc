@@ -1,5 +1,5 @@
 # themeCalc
-https://img.shields.io/badge/Python-Tkinter-yellow
+![Used](https://img.shields.io/badge/Python-Tkinter-yellow)
 
 A basic calculator with some themes created with Tkinter.
 
