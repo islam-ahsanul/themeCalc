@@ -3,4 +3,8 @@
 
 A basic calculator with some themes created with Tkinter.
 
-I made this during my CSE111 days.
+Made this during my CSE111 days.
+
+# Usage
+
+Run the Python code on your local machine. 
